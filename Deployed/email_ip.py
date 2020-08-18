@@ -4,13 +4,14 @@ import re
 import smtplib
 import sm
 import socket
+import secrets
 
 # Setup our login credentials
 from_address = 'HalcyonLaundry@gmail.com'
 to_address = 'HalcyonLaundry@gmail.com'
 subject = str(datetime.now()) + ' ' + 'HalcyonLaundry Cendana IP'
 username = 'HalcyonLaundry@gmail.com'
-password = 'Yundachua1'
+password = email_login
 
 # Setup where we will get our IP address
 url = 'http://checkip.dyndns.org'

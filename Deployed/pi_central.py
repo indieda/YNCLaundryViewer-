@@ -8,6 +8,7 @@ import time
 import threading
 import requests, os, sys, logging
 from pathlib import Path
+import secrets
 #import telegram
 #Create secrets file with bottoken.
 #from secrets import bottoken
@@ -40,8 +41,8 @@ global l
 l = "a"
 
 def telegram_bot(msg):
-    bot_token="1081925199:AAFSR2A4rcls3eTUrNPwI1JgCHWTBQtUgFo"
-    bot_chatID=["-397154654","63735059"]
+    bot_token= bot_token
+    bot_chatID=bot_chat_ID
     for members in bot_chatID:
         try:
             send_msg = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + members + '&parse_mode=Markdown&text=' + msg
