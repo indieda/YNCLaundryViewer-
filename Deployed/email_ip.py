@@ -11,7 +11,7 @@ from_address = 'HalcyonLaundry@gmail.com'
 to_address = 'HalcyonLaundry@gmail.com'
 subject = str(datetime.now()) + ' ' + 'HalcyonLaundry Cendana IP'
 username = 'HalcyonLaundry@gmail.com'
-password = email_login
+password = secrets.email_login
 
 # Setup where we will get our IP address
 url = 'http://checkip.dyndns.org'
