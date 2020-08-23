@@ -15,9 +15,9 @@ import secrets
 
 #Edit this channel to the telegram bot's channel name, retaining the @ at the front.
 channel="@cendana_laundry_bot"
-log_path = "/home/pi/YNC_Laundry/Deployed/log.txt"
+log_path = "/home/pi/YNCLaundryViewer-/Deployed/log.txt"
 #log_path = str(Path.cwd()/"log.txt")
-uptime_log_path = "/home/pi/YNC_Laundry/Deployed/uptime.txt"
+uptime_log_path = "/home/pi/YNCLaundryViewer-/Deployed/uptime.txt"
 #uptime_log_path = str(Path.cwd()/"uptime.txt")
 ync_url = "https://laundry.chuayunda.com/index"
 new_url = "https://laundry.yale-nus.edu.sg/index"
