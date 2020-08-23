@@ -3,7 +3,7 @@ from datetime import datetime, timedelta, timezone
 import json
 import time
 #constants
-path = "/home/yun_da_legacy_hotmail_com/YNCLaundryViewer-/app/status_db.json"
+path = "/home/yun_da_legacy_hotmail_com/YNCLaundryViewer-/website/app/status_db.json"
 #path = "./status_db.json"
 ON = "UNAVAILABLE"
 OFF = "AVAILABLE"
