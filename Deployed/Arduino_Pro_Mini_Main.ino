@@ -15,7 +15,7 @@ const int sensorPin = 0;
 const int ldrOUT = 11;
 const int ldrGND = 12;
 //const int time_unit = 2888;
-const int time_unit = 6000;
+const int time_unit = 7000;
 const int time_ble = 888; //888 showed good results
 SoftwareSerial ble(9, 8); //RXD,TXD
 int state_Array[] = {3, 3, 3};
