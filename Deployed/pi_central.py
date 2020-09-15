@@ -191,6 +191,7 @@ while (time.time() - time_exit < 575):
                     washer_state_array[idxx].add(read_ble.data_decode)
                     print(read_ble.data_decode+str(washer_addr_reversed[idxx]))
                     print(datetime.now())
+                    write_log(read_ble.data_decode+str(washer_addr_reversed[idxx])+" "+datetime.now())
                 else:
                     pass
             #upload = threading.Thread(target=stdhandle, args = (read_ble.data_decode,i), daemon = True)
