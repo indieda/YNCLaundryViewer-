@@ -176,7 +176,7 @@ def read_ble(ble_no,i):
         conn = btle.Peripheral(ble_no, timeout=3.0)
         #This 0.8 seconds is really important, because it takes time for the connection data to load into the classes.
         #If we don't add it in, the likelihood of it returning "b'"x01\x02\x03\x04\x05\x00\x00\x00\x00\x00 is super high!!!""
-        sleep(0.8)
+        sleep(1.5)
         data = conn.readCharacteristic(0x0025)
         print("connected")
     #print(data.decode('utf8')+str(i))
