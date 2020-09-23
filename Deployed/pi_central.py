@@ -211,13 +211,13 @@ while (time.time() - time_exit < 575):
                 #lll[idx] = func_timeout(timeout=0.7,func=read_ble,args=(addr_i,idxx))
                 #lll[idxx].retry(timeout=2.0)
                 
-                    """ if ((read_ble.data_decode[1] == "n") or (read_ble.data_decode[1] == "f") or (read_ble.data_decode[1] == "r") or (read_ble.data_decode == "first") or (read_ble.data_decode == "second") or (read_ble.data_decode == "third") or (read_ble.data_decode == "fourth")or (read_ble.data_decode == "fifth") or (read_ble.data_decode == "sixth") or (read_ble.data_decode == "seventh") or (read_ble.data_decode == "eigth") or (read_ble.data_decode == "ninth") or (read_ble.data_decode == "tenth") or (read_ble.data_decode == "max")):
+                    if ((read_ble.data_decode[1] == "n") or (read_ble.data_decode[1] == "f") or (read_ble.data_decode[1] == "r") or (read_ble.data_decode == "first") or (read_ble.data_decode == "second") or (read_ble.data_decode == "third") or (read_ble.data_decode == "fourth")or (read_ble.data_decode == "fifth") or (read_ble.data_decode == "sixth") or (read_ble.data_decode == "seventh") or (read_ble.data_decode == "eigth") or (read_ble.data_decode == "ninth") or (read_ble.data_decode == "tenth") or (read_ble.data_decode == "max")):
                         washer_state_array[idxx].add(read_ble.data_decode)
                         print(read_ble.data_decode+str(washer_addr_reversed[idxx]))
                         print(datetime.now())
                         write_log(read_ble.data_decode+str(washer_addr_reversed[idxx])+" "+datetime.now())
                     else:
-                        pass """
+                        pass
             #upload = threading.Thread(target=stdhandle, args = (read_ble.data_decode,i), daemon = True)
             except Exception as e:
                 print(e)
