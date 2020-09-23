@@ -11,12 +11,11 @@ int ble_vcc = 7; //Power in
 int ble_gnd = 6; // Ground
 
 //global variables (by hardware design)
-//Cendana washer 5 is on analog A1
-const int sensorPin = 0;
+const int sensorPin = 1;
 const int ldrOUT = 11;
 const int ldrGND = 12;
-const int time_unit = 2888;
-//const int time_unit = 7000;
+//const int time_unit = 2888;
+const int time_unit = 7000;
 const int time_ble = 888; //888 showed good results
 SoftwareSerial ble(9, 8); //RXD,TXD
 int state_Array[] = {3, 3, 3};
@@ -144,7 +143,7 @@ void loop()
   delay(500);
   lightVal = analogRead(sensorPin);
   //The below chunk of code is for diagnostics of what the light level is for the sensor.
-  
+  /*
     if (lightVal < 100)
     {
     pinMode(ble_vcc, OUTPUT);//turn_on_ble;
@@ -275,20 +274,7 @@ void loop()
     ble.flush();     //This is an extremely important statement to ensure that all the bytes are sent over bluetooth before entering sleep mode. Without it, you wouldn't be able to decode the messages properly. Read for more: https://arduino.stackexchange.com/questions/14411/low-power-library-messing-up-serial-text
     delay(3000);
     }
-    else if (lightVal > 999 and lightVal<1050)
-    {
-    pinMode(ble_vcc, OUTPUT);//turn_on_ble;
-    pinMode(ble_gnd, OUTPUT);
-    digitalWrite(ble_vcc, HIGH);
-    digitalWrite(ble_gnd, LOW);
-    delay(888);
-    // Serial.println("off");
-    //Serial.flush();
-    ble.write("ele");
-    ble.flush();     //This is an extremely important statement to ensure that all the bytes are sent over bluetooth before entering sleep mode. Without it, you wouldn't be able to decode the messages properly. Read for more: https://arduino.stackexchange.com/questions/14411/low-power-library-messing-up-serial-text
-    delay(3000);
-    }
-    else if (lightVal > 1051 and lightVal<1100)
+    else if (lightVal > 999 and lightVal<1100)
     {
     pinMode(ble_vcc, OUTPUT);//turn_on_ble;
     pinMode(ble_gnd, OUTPUT);
@@ -301,7 +287,7 @@ void loop()
     ble.flush();     //This is an extremely important statement to ensure that all the bytes are sent over bluetooth before entering sleep mode. Without it, you wouldn't be able to decode the messages properly. Read for more: https://arduino.stackexchange.com/questions/14411/low-power-library-messing-up-serial-text
     delay(3000);
     }
-  
+  */
 
   /*
     //Take a reading using analogRead() on sensor pin and store it in lightVal
@@ -322,7 +308,64 @@ void loop()
 
   lightVal = analogRead(sensorPin);
 
-  
+  if (lightVal < light_threshold) // Check if it is dark.
+  {
+    start_status = 0;
+    pinMode(ldrOUT, INPUT); //Turn off LDR
+    pinMode(ldrGND, INPUT); //Turn off LDR
+    if (state_Array[0] == 0 && state_Array[0] == state_Array[1] && state_Array[1] == state_Array[2])
+    {
+      sleepd(); sleepd(); sleepd(); sleepd(); sleepd(); sleepd(); sleepd(); sleepd();
+    }
+    else
+    {
+      pinMode(ble_vcc, OUTPUT);//turn_on_ble;
+      pinMode(ble_gnd, OUTPUT);
+      digitalWrite(ble_vcc, HIGH);
+      digitalWrite(ble_gnd, LOW);
+      delay(time_ble);
+      // Serial.println("off");
+      //Serial.flush();
+      ble.write("off");
+      ble.flush();     //This is an extremely important statement to ensure that all the bytes are sent over bluetooth before entering sleep mode. Without it, you wouldn't be able to decode the messages properly. Read for more: https://arduino.stackexchange.com/questions/14411/low-power-library-messing-up-serial-text
+      delay(time_unit);
+      pinMode(ble_vcc, INPUT); //Turn off BLE
+      pinMode(ble_gnd, INPUT);
+      state_Array[2] = state_Array[1];
+      state_Array[1] = state_Array[0];
+      state_Array[0] = 0;
+      sleepd(); sleepd(); sleepd(); sleepd(); sleepd(); sleepd(); sleepd(); sleepd();
+    }
+  }
+  else
+  {
+    start_status = 1;
+    pinMode(ldrOUT, INPUT); //Turn off LDR
+    pinMode(ldrGND, INPUT); //Turn off LDR
+    if (state_Array[0] == 1 && state_Array[0] == state_Array[1] && state_Array[1] == state_Array[2])
+    {
+      sleepl(); sleepl(); sleepl(); sleepl(); sleepl(); sleepl(); sleepl(); sleepl();
+    }
+    else
+    {
+
+      pinMode(ble_vcc, OUTPUT); //turn_on_ble
+      pinMode(ble_gnd, OUTPUT);//turn_on_ble
+      digitalWrite(ble_vcc, HIGH);//turn_on_ble
+      digitalWrite(ble_gnd, LOW);//turn_on_ble
+      delay(time_ble);
+      ble.write("on");
+      ble.flush();
+      delay(time_unit);
+      pinMode(ble_vcc, INPUT); //turn_off_ble;
+      pinMode(ble_gnd, INPUT); //turn_off_ble;
+      state_Array[2] = state_Array[1];
+      state_Array[1] = state_Array[0];
+      state_Array[0] = 1;
+
+      sleepl(); sleepl(); sleepl(); sleepl(); sleepl(); sleepl(); sleepl(); sleepl();
+    }
+  }
 }
 
 /* For Future reference: For the peripheral to read and input and print out the commands.
