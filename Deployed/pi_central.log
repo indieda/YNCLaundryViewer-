@@ -1,0 +1,3399 @@
+Restarted bluetooth
+Starting infinite loop
+Wrote to log
+0
+1
+2
+3
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+1
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+2
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+3
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+4
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+5
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+6
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+7
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+8
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+9
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+10
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+11
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+12
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+13
+0
+1
+2
+3
+4
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+14
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+15
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+16
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+17
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+18
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+19
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+20
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+21
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+22
+0
+1
+2
+3
+4
+5
+stopped
+Device disconnected
+Device disconnected
+connected
+off
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+[{'off'}, set(), set(), set(), set(), set()]
+Washer 0 {'off'} and Uploaded
+23
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+24
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+25
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+26
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+27
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+28
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+29
+0
+1
+2
+3
+4
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+30
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+31
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+32
+0
+1
+2
+3
+4
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+33
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+34
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+35
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+36
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+37
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+38
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+39
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+40
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+41
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+42
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+43
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+44
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+45
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+46
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+47
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+48
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+49
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+50
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+51
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+52
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+53
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+54
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+55
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+56
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+57
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+58
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+59
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+60
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+connected
+off
+61
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Device disconnected
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+62
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+63
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+64
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+65
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+66
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[{'off'}, set(), set(), set(), set(), set()]
+Washer 0 {'off'} and Uploaded
+67
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+68
+0
+1
+2
+3
+4
+5
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+69
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+70
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+71
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+72
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+73
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+74
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+75
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+76
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+77
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+78
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+79
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+80
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+81
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+82
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+83
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+84
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+85
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+86
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+87
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+88
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+89
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+90
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+91
+0
+1
+2
+3
+4
+5
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+92
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+93
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+94
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+95
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+96
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+97
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Device disconnected
+98
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Device disconnected
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+connected
+off
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+99
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+100
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+101
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Device disconnected
+102
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Device disconnected
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Device disconnected
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+103
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+104
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[{'off'}, set(), set(), set(), set(), set()]
+Washer 0 {'off'} and Uploaded
+105
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+106
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+107
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Device disconnected
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+108
+0
+1
+2
+3
+4
+5
+stopped
+Device disconnected
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+109
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+110
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+111
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+112
+0
+1
+2
+3
+4
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+113
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+114
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+115
+0
+1
+2
+3
+4
+5
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+116
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+117
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+118
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+119
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+120
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+121
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+122
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+123
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+124
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+125
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+126
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+127
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+128
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+129
+0
+1
+2
+3
+4
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+130
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+131
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+132
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+133
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+134
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+135
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+136
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+137
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+138
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+139
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+140
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+141
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+142
+0
+1
+2
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+3
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+143
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+144
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+145
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+146
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+147
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+148
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+149
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+150
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+151
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+152
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+153
+0
+1
+2
+3
+4
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+stopped
+5
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+154
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+155
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+156
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+157
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+158
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+159
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+160
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+161
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+162
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+163
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+164
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+165
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+166
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+167
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Device disconnected
+connected
+on
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), {'on'}, set(), set(), set(), set()]
+Washer 1 {'on'} and Uploaded
+168
+0
+1
+2
+3
+4
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+169
+0
+1
+2
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+170
+0
+1
+2
+3
+4
+5
+stopped
+Device disconnected
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Device disconnected
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+171
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+172
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+173
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+174
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+175
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+176
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+177
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+178
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+179
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+180
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+181
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+182
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+183
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+184
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+185
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+186
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+187
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+188
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+189
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+190
+0
+1
+2
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+3
+4
+5
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+191
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+192
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+192
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+193
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+194
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+195
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+196
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+197
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+198
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+199
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+200
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+201
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+202
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+203
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+204
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+205
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+206
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+207
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+208
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+209
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+210
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+211
+0
+1
+2
+3
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+212
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+213
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+214
+0
+1
+2
+3
+4
+5
+stopped
+Device disconnected
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+215
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+216
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+217
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+218
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+219
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+220
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+221
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+222
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+223
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral ec:24:b8:23:78:29, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+224
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+225
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+226
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+227
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+228
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+229
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+230
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+[set(), set(), set(), set(), set(), set()]
+231
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral EC:24:B8:21:BA:1B, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+232
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C6:73, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+233
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+234
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+235
+0
+1
+2
+3
+4
+5
+Failed to connect to peripheral 58:7A:62:17:B8:07, addr type: public
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+236
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+237
+0
+1
+2
+3
+4
+5
+stopped
+Failed to connect to peripheral D4:F5:13:FD:C9:D7, addr type: public
+Failed to connect to peripheral D4:F5:13:FD:DD:51, addr type: public
+238
+0
+1
+2
+3
+4
+5
+stopped
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral 58:7A:62:17:B8:07
+Timed out while trying to connect to peripheral ec:24:b8:23:78:29
+Timed out while trying to connect to peripheral EC:24:B8:21:BA:1B
+Timed out while trying to connect to peripheral D4:F5:13:FD:C6:73
+Timed out while trying to connect to peripheral D4:F5:13:FD:C9:D7
+Timed out while trying to connect to peripheral D4:F5:13:FD:DD:51
+[set(), set(), set(), set(), set(), set()]
+239

@@ -173,10 +173,10 @@ finally:
 def read_ble(ble_no,i):
     try:
         print(i)
-        conn = btle.Peripheral(ble_no, timeout=3.0)
+        conn = btle.Peripheral(ble_no, timeout=5.0)
         #This 0.8 seconds is really important, because it takes time for the connection data to load into the classes.
         #If we don't add it in, the likelihood of it returning "b'"x01\x02\x03\x04\x05\x00\x00\x00\x00\x00 is super high!!!""
-        sleep(1.5)
+        sleep(2.5)
         data = conn.readCharacteristic(0x0025)
         print("connected")
     #print(data.decode('utf8')+str(i))
@@ -189,7 +189,7 @@ def read_ble(ble_no,i):
         #conn.disconnect()
         print(e)
         read_ble.data_decode = "nil"
-        return Exception
+        return e
 
 def functime(fun, addr,to, idxx):
     func_timeout(timeout=to,func=fun,args=(addr_i,idxx))
@@ -211,13 +211,13 @@ while (time.time() - time_exit < 575):
                 #lll[idx] = func_timeout(timeout=0.7,func=read_ble,args=(addr_i,idxx))
                 #lll[idxx].retry(timeout=2.0)
                 
-                    if ((read_ble.data_decode[1] == "n") or (read_ble.data_decode[1] == "f") or (read_ble.data_decode[1] == "r") or (read_ble.data_decode == "first") or (read_ble.data_decode == "second") or (read_ble.data_decode == "third") or (read_ble.data_decode == "fourth")or (read_ble.data_decode == "fifth") or (read_ble.data_decode == "sixth") or (read_ble.data_decode == "seventh") or (read_ble.data_decode == "eigth") or (read_ble.data_decode == "ninth") or (read_ble.data_decode == "tenth") or (read_ble.data_decode == "max")):
+                    """ if ((read_ble.data_decode[1] == "n") or (read_ble.data_decode[1] == "f") or (read_ble.data_decode[1] == "r") or (read_ble.data_decode == "first") or (read_ble.data_decode == "second") or (read_ble.data_decode == "third") or (read_ble.data_decode == "fourth")or (read_ble.data_decode == "fifth") or (read_ble.data_decode == "sixth") or (read_ble.data_decode == "seventh") or (read_ble.data_decode == "eigth") or (read_ble.data_decode == "ninth") or (read_ble.data_decode == "tenth") or (read_ble.data_decode == "max")):
                         washer_state_array[idxx].add(read_ble.data_decode)
                         print(read_ble.data_decode+str(washer_addr_reversed[idxx]))
                         print(datetime.now())
                         write_log(read_ble.data_decode+str(washer_addr_reversed[idxx])+" "+datetime.now())
                     else:
-                        pass
+                        pass """
             #upload = threading.Thread(target=stdhandle, args = (read_ble.data_decode,i), daemon = True)
             except Exception as e:
                 print(e)
@@ -229,7 +229,6 @@ while (time.time() - time_exit < 575):
                 pass
             time_elapsed = time.time() - time_prev
         print("stopped")
-        lll[idxx].join()
             #if kill[i] > 30:
                 #kill = [0,0]
                 #print("restarting program")
@@ -242,6 +241,8 @@ while (time.time() - time_exit < 575):
             y.join()
         i = i+1
         sleep(0.8)
+        for num in range(0,6):
+            lll[num].join()
         print(i)
     except Exception as e:
         print(e)
@@ -264,4 +265,4 @@ except:
 finally:
     uptime_log.close()
 
-#exit()
+exit()
