@@ -176,6 +176,7 @@ def read_ble(ble_no,i):
         conn = btle.Peripheral(ble_no, timeout=5.0)
         #This 0.8 seconds is really important, because it takes time for the connection data to load into the classes.
         #If we don't add it in, the likelihood of it returning "b'"x01\x02\x03\x04\x05\x00\x00\x00\x00\x00 is super high!!!""
+        #Apparently 0.5s is ample time for a processor to read byte strings...
         sleep(2.5)
         data = conn.readCharacteristic(0x0025)
         print("connected")
@@ -204,6 +205,9 @@ while (time.time() - time_exit < 575):
         for idxx,addr_i in enumerate(cendana_addr, 0):
             try:
                 with heh:
+                    #TODO The Lock isn't passed to the thread right now. The small time used to create the Lock could be enough for it to return different values.
+                    #Consider passing the Lock into the thread, and then establishing the connection and reading the data one by one with a shorter interval (even though we might face the byte string problem)
+                    #Alternatively, access different memory objects to prevent conditions where memory interferes with one another.
                     lll[idxx] = threading.Thread(target=read_ble,args=(addr_i,idxx))
                     lll[idxx].start()
                 #func_timeout(timeout=0.7,func=read_ble,args=(addr_i,idxx))
